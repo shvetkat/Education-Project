@@ -1,0 +1,19 @@
+<svg width="132" height="445" viewBox="0 0 132 445" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="142" width="132" height="302" fill="white"/>
+<rect x="6" y="135" width="120" height="30" fill="white"/>
+<line x1="95.9375" y1="149.999" x2="95.9375" y2="444.001" stroke="#60BE6F" stroke-width="7"/>
+<line x1="69.3125" y1="150" x2="69.3125" y2="445" stroke="#60BE6F" stroke-width="7"/>
+<line x1="41.3125" y1="150" x2="41.3125" y2="445" stroke="#60BE6F" stroke-width="7"/>
+<rect x="15" y="78" width="102" height="57" fill="white"/>
+<rect x="15" y="76" width="10" height="27" fill="white"/>
+<rect x="31" y="18" width="68" height="62" fill="white"/>
+<path d="M39 10H93V37H39V10Z" fill="white"/>
+<path d="M47 0H85V27H47V0Z" fill="white"/>
+<rect x="107" y="76" width="10" height="27" fill="white"/>
+<circle cx="68" cy="107" r="17" stroke="#60BE6F" stroke-width="6"/>
+<line x1="79" y1="23" x2="79" y2="67" stroke="#60BE6F" stroke-width="4"/>
+<line x1="88.5" y1="28" x2="88.5" y2="62" stroke="#60BE6F" stroke-width="3"/>
+<line x1="45.5" y1="28" x2="45.5" y2="62" stroke="#60BE6F" stroke-width="3"/>
+<line x1="68" y1="23" x2="68" y2="67" stroke="#60BE6F" stroke-width="4"/>
+<line x1="56" y1="23" x2="56" y2="67" stroke="#60BE6F" stroke-width="4"/>
+</svg>
